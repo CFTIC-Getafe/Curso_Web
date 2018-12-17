@@ -43,3 +43,6 @@ Crear un repositorio
         git push -u origin master
         ```
 - De remoto a local
+    ```shell
+    git clone <repositorio>.git
+    shell```
